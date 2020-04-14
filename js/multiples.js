@@ -1,4 +1,4 @@
 export let multiples =()=>{
-  let number = 'aaa';
+  let number = 0;
   return number;
 }
