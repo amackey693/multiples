@@ -1,5 +1,4 @@
 
-
 import {multiples} from './../js/multiples.js'
 
 describe('mutiples', () => {
@@ -12,5 +11,5 @@ describe('mutiples', () => {
   test('function returns a number less then sum of all numbers', ()=>{
     expect(multiples(1000)).toBe(233168);
   })
-
+  
 })
